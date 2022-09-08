@@ -9,7 +9,9 @@ Data: [Earthquakes](https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/al
 [Tectonic Plates](https://raw.githubusercontent.com/fraxen/tectonicplates/master/GeoJSON/PB2002_boundaries.json)  
 
 ## Results
-To view the website, visit the github pages server of this repository here: [Earthquake_Challenge]()
+The website looks like this when the [index.html](Earthquake_Challenge/index.html) file is run properly:
+
+![](Images/website.PNG)
 
 In order to toggle the earthquake data and map styling, see the box in the top right corner that looks like this when hovering over:
 
